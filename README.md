@@ -31,7 +31,7 @@ A full-stack e-commerce web application inspired by [Myntra](https://www.myntra.
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/myntra-clone.git
+git clone https://github.com/gauravjain8056/Myntra-Clone-React-E-commerce-Frontend-Node.js-Backend.git
 cd myntra-clone
 ```
 
