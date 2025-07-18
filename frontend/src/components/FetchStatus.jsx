@@ -14,7 +14,9 @@ const FetchStatus = () => {
     const signal = controller.signal;
 
     dispatch(fetchActions.fetchingStarted());
-    fetch("http://localhost:8080/items", { signal })
+    fetch("https://ecommerce-site-inspired-by-myntra.onrender.com/items", {
+      signal,
+    })
       .then((res) => res.json())
       .then(({ items }) => {
         dispatch(fetchActions.setFetchStatus());
