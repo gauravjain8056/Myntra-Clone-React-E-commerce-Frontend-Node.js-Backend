@@ -1,4 +1,4 @@
-# Myntra Clone
+#   Ecommerce site - inspired by Myntra
 
 A full-stack e-commerce web application inspired by [Myntra](https://www.myntra.com/), built with React for the frontend and Node.js for the backend. This project demonstrates core e-commerce features such as product listing, shopping bag management, and a responsive UI.
 
